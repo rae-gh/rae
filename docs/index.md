@@ -1,8 +1,8 @@
-# Exploration of Electron Density and Cryo-EM Potential
-## in ultra-high resolution protein structures
-### and a geometric analysis for criteria searching of density area of interest
+# Exploration of Electron Density and Cryo-EM Potential  
+**in ultra-high resolution protein structures**  
+**and a geometric analysis for criteria searching of density area of interest**  
 
-The density in a peptide bond:  
+### The density in a peptide bond:  
 .....CA  
 .....|  
 .....C  
@@ -13,8 +13,8 @@ The density in a peptide bond:
 
 ![image info](./assets/density.png)  
 
-A first derivative, called the radient.  
+### A first derivative, called the radient.  
 ![image info](./assets/radient.png) 
 
-A projection of a unit cell.  
+### A projection of a unit cell.  
 ![image info](./assets/cross.png)  
