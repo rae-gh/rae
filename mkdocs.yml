@@ -5,7 +5,7 @@ nav:
 theme:
   name: material
   logo: assets/density.png
-  favicon: assets/radient.png
+  favicon: assets/cross.png
   palette:
     primary: pink  
     accent: deep orange  
