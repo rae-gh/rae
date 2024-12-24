@@ -1,5 +1,5 @@
 # Exploration of Electron Density and Cryo-EM Potential
-### in ultra-high resolution structures
+## in ultra-high resolution structures
 
 The density in a peptide bond:  
 .....CA  
