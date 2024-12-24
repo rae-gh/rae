@@ -7,8 +7,8 @@ The density in a peptide bond:
 ..../ \\  
 ..N     O  
 ..|  
-..CA  
-    
+..CA
 ![image info](./assets/density.png)  
+
 ![image info](./assets/radient.png)  
 ![image info](./assets/cross.png)  
