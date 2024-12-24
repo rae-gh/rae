@@ -1,6 +1,6 @@
 # Something about the projects
 
-The density in a pepdtide bond:
+The density in a pepdtide bond:  
     CA  
     |  
     C  
