@@ -1,6 +1,7 @@
 # Something about the projects
 
 The density in a peptide bond:  
+![image info](./assets/density.png)
 .....CA  
 .....|  
 .....C  
@@ -8,7 +9,6 @@ The density in a peptide bond:
 ..N     O  
 ..|  
 ..CA
-![image info](./assets/density.png)  
 
 ![image info](./assets/radient.png)  
 ![image info](./assets/cross.png)  
