@@ -27,6 +27,7 @@ nav:
     - Python library: trivial/py-lib.md
     - Colab demo: trivial/colab.py
     - Results: trivial/results.md
+  ---  
   - About: 'about.md'  
   - References: 'references.md'  
 theme:
