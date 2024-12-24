@@ -8,7 +8,7 @@ nav:
     - Overview: maps/overview.md
   - Interpolation:
     - Overview: interpolation/overview
-  - TrivialDivergence:
+  - Trivial Divergence:
     - Overview: trivial/overview.md  
 theme:
   name: material
