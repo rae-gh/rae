@@ -3,11 +3,11 @@ nav:
   - Home: 'index.md'
   - About: 'about.md'  
   - Protein Geometry:
-    - Overview: geom/overview.md
+    - Overview: geometry/overview.md
   - Density and Potential Maps:
     - Overview: maps/overview.md
   - Interpolation:
-    - Overview: interp/overview
+    - Overview: interpolation/overview
   - TrivialDivergence:
     - Overview: trivial/overview.md  
 theme:
