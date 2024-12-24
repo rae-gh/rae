@@ -3,6 +3,7 @@ nav:
   - Home: 'index.md'  
   - PhD Writing:
     - Literature Review: pdfs/Alcraft_LitReview_2022.pdf
+    - N-Dim M-Poly Interpolation: pdfs/MultivariateInterpolation.pdf
   - Protein Geometry:
     - Overview: geometry/overview.md
     - Python library: geometry/py-lib.md
