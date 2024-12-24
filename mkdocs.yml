@@ -7,8 +7,8 @@ theme:
   logo: assets/density.png
   favicon: assets/cross.png
   palette:
-    primary: pink  
-    accent: deep orange  
+    primary: indigo  
+    accent: pink
   features:
     - content.code.copy
 markdown_extensions:
