@@ -3,6 +3,12 @@
 **and a geometric analysis for criteria searching of density area of interest**  
 ---  
 
+The primary purpose of my PhD is to look for new information about interatomic bonds from ultra-high resolution x-ray crystallographic maps. The explosion in the solutions of ultra-high resolution structures has led to information about protein crystal structures being sampled up to every 0.3Å in ultra-high structures.  With the distances in the peptide bond between atoms being around 1.45Å (Engh&Huber, 2006) this is an opportunity to analyse data sampled within atomic bonds for new informaiton.  
+
+
+---  
+
+
 ### The density in a peptide bond:  
 .....CA  
 .....|  
