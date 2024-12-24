@@ -10,8 +10,8 @@ nav:
     - Density: maps/density.md
     - Radient: maps/radient.md
     - Laplacian: maps/laplacian.md
-    - Python library: interpolation/py-lib.md
-    - Colab demo: interpolation/colab.py
+    - Python library: maps/py-lib.md
+    - Colab demo: maps/colab.py
   - Interpolation:
     - Overview: interpolation/overview
     - N-dim M-Poly: interpolation/alcraft.md
