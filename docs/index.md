@@ -1,4 +1,5 @@
-# Explotation of Electron Density and Cryo-EM potention in ultra-high resolution structures
+# Exploration of Electron Density and Cryo-EM Potential
+### in ultra-high resolution structures
 
 The density in a peptide bond:  
 .....CA  
