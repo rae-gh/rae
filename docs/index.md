@@ -15,5 +15,5 @@ The density in a peptide bond:
 A first derivative, called the radient.  
 ![image info](./assets/radient.png) 
 
-A projection section of a unit cell.  
+A projection of a unit cell.  
 ![image info](./assets/cross.png)  
