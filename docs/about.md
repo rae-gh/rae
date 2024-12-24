@@ -1,4 +1,7 @@
-# About me - [Rachel Alcraft](https://orcid.org/my-orcid?orcid=0000-0003-2674-6321)
+# About me
+
+- [Orcid](https://orcid.org/my-orcid?orcid=0000-0003-2674-6321)  
+- [GitHub](https://github.com/rae-gh)  
 
 I am a Research Software Engineer at the Institute of Cancer Reasearch, doing a PhD in ultra-high resolution crystallographic protein structures at Birkbeck College (UoL) in my spare time.  
 
