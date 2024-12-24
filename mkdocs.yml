@@ -12,6 +12,7 @@ nav:
     - Radient: maps/radient.md
     - Laplacian: maps/laplacian.md    
     - Python library: maps/py-lib.md
+    - Web application: maps/leuci-web.md
     - Colab demo: maps/colab.py
     - Results: maps/results.md
   - Interpolation:
