@@ -4,8 +4,8 @@ nav:
   - About: 'about.md'  
 theme:
   name: material
-  logo: assets/icr_svg_logo.svg  
-  favicon: assets/icr_svg_logo.svg  
+  logo: assets/density.png
+  favicon: assets/radient.png
   palette:
     primary: pink  
     accent: deep orange  
