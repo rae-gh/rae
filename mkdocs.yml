@@ -26,8 +26,7 @@ nav:
     - Method: trivial/method.md  
     - Python library: trivial/py-lib.md
     - Colab demo: trivial/colab.py
-    - Results: trivial/results.md
-  ---  
+    - Results: trivial/results.md  
   - About: 'about.md'  
   - References: 'references.md'  
 theme:
@@ -39,6 +38,7 @@ theme:
     accent: pink
   features:
     - content.code.copy
+    - navigation.path
 markdown_extensions:
   - def_list
   - pymdownx.tasklist:
