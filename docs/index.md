@@ -1,5 +1,6 @@
 # Exploration of Electron Density and Cryo-EM Potential
-## in ultra-high resolution structures
+## in ultra-high resolution protein structures
+### and a geometric analysis for criteria searching
 
 The density in a peptide bond:  
 .....CA  
