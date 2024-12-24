@@ -10,6 +10,7 @@ nav:
   - Trivial Divergence:
     - Overview: trivial/overview.md  
   - About: 'about.md'  
+  - References: 'references.md'  
 theme:
   name: material
   logo: assets/density.png
