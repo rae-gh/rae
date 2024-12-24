@@ -11,10 +11,10 @@ The primary purpose of my PhD is to look for new information about interatomic b
 ..|  
 ..CA  
 
-![image info](./assets/density.png)  
+![image info](../assets/density.png)  
 
 ### A first derivative, called the radient.  
-![image info](./assets/radient.png) 
+![image info](../assets/radient.png) 
 
 ### A projection of a unit cell.  
-![image info](./assets/cross.png)  
+![image info](../assets/cross.png)  
