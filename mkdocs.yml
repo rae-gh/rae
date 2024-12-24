@@ -1,7 +1,6 @@
 site_name: Rae-Phd-Projects
 nav:
-  - Home: 'index.md'
-  - About: 'about.md'  
+  - Home: 'index.md'  
   - Protein Geometry:
     - Overview: geometry/overview.md
   - Density and Potential Maps:
@@ -10,6 +9,7 @@ nav:
     - Overview: interpolation/overview
   - Trivial Divergence:
     - Overview: trivial/overview.md  
+  - About: 'about.md'  
 theme:
   name: material
   logo: assets/density.png
