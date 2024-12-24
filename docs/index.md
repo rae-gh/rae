@@ -1,10 +1,10 @@
 # Something about the projects
 
-The density in a pepdtide bond:  
-    CA  
-    |  
-    C  
-   /  \\  
+The density in a peptide bond:  
+     CA  
+     |  
+     C  
+    / \\  
   N     O  
     
 ![image info](./assets/density.png)  
