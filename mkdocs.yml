@@ -1,7 +1,8 @@
 site_name: Rae-PhD-Projects
 nav:
   - Home: 'index.md'  
-  - Literature Review: pdfs/Alcraft_LitReview_2022.pdf
+  - PhD Writing:
+    - Literature Review: pdfs/Alcraft_LitReview_2022.pdf
   - Protein Geometry:
     - Overview: geometry/overview.md
     - Python library: geometry/py-lib.md
