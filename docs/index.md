@@ -5,7 +5,7 @@ The density in a peptide bond:
 .....|  
 .....C  
 ..../ \\  
-...N     O  
+..N     O  
     
 ![image info](./assets/density.png)  
 ![image info](./assets/radient.png)  
