@@ -3,8 +3,9 @@ nav:
   - Home: 'index.md'  
   - PhD Writing:
     - MSc Thesis: pdfs/Alcraft_MSC_Thesis_Bioinformatics_final.pdf
-    - PhD Literature Review: pdfs/Alcraft_LitReview_2022.pdf
-    - Other N-Dim M-Poly Interpolation: pdfs/MultivariateInterpolation.pdf
+    - PhD Literature Review: pdfs/Alcraft_LitReview_2022.pdf    
+  - Other Writing:    
+    - N-Dim M-Poly Interpolation: pdfs/MultivariateInterpolation.pdf
   - Protein Geometry:
     - Overview: geometry/overview.md
     - Python library: geometry/py-lib.md
