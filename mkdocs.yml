@@ -2,6 +2,7 @@ site_name: Rae-PhD-Projects
 nav:
   - Home: 'index.md'  
   - PhD Writing:
+    - MSc Thesis: pdfs/Alcraft_MSc_Thesis_Bioinformatics.pdf
     - Literature Review: pdfs/Alcraft_LitReview_2022.pdf
     - N-Dim M-Poly Interpolation: pdfs/MultivariateInterpolation.pdf
   - Protein Geometry:
