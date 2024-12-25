@@ -7,4 +7,6 @@
   - a) the coords of structures with similar features (pdb search)  
   - b) the adjusted maxima of those  
   - c) Superposes either adjusted or none adjusted slices  
-  - **Analysis** use this to look at hydrogen bonds mentioned in lit review  
+  - **Analysis** use this to look at hydrogen bonds mentioned in lit review
+ 
+- **Analysis** iron in different formations  
