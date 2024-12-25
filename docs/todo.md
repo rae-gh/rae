@@ -10,4 +10,6 @@
   - c) Superposes either adjusted or none adjusted slices  
   - **Analysis** use this to look at hydrogen bonds mentioned in lit review
  
-- **Analysis** iron in different formations  
+- **Analysis** iron in different formations
+
+- **Analysis** and **Util** is my Laplacian calculation correct? I had a hessian before which I lost, in part because the method I used disappeared from the internet, resurrect all of that and ensure correctness.
