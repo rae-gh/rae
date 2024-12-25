@@ -10,6 +10,9 @@ An example of an image of some electron density, where the red is a stronger den
 
 ![image info](./assets/density.png)  
 
+---  
+
 ### Status notes
-- 25/12/24 - this is under development to write up my current progress, nothing is complete currently it is all notes to self.  
+#### 25/12/24
+This is under development to write up my current progress, nothing is complete currently it is all notes to self.  
 
