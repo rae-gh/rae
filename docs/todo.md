@@ -2,7 +2,7 @@
 
 - **Util** Make a util that takes a pdb file and returns the same but all the atom positions adjusted to the maxima  
   - **Analysis** Use this to run the analysis for C:O against CA:C:N+1 (tau+1) and show no correlation in pdb but correlation on adjusted maxima
-  - N.b. I have this in C++ and C# but not sure about python. Do I want to use my C++ tool or re-write?  
+  - N.b. I have this in C++ but not sure about python. Do I want to use my C++ tool or re-write?  
    
 - **Util** make a util that returns  
   - a) the coords of structures with similar features (pdb search)  
