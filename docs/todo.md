@@ -12,4 +12,4 @@
  
 - **Analysis** iron in different formations
 
-- **Analysis** and **Util** is my Laplacian calculation correct? I had a hessian before which I lost, in part because the method I used disappeared from the internet, resurrect all of that and ensure correctness.
+- **Analysis** and **Util** is my Laplacian calculation correct? I had a hessian before which I lost, in part because the method I used disappeared from the internet, resurrect all of that and ensure correctness. Use this to re-analyse 6jgj.  
