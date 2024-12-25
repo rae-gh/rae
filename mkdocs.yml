@@ -7,8 +7,7 @@ nav:
   - Protein Geometry:
     - Overview: geometry/overview.md
     - Python library: geometry/py-lib.md
-    - Web application: geometry/prometry.md
-    - AlphaFold: geometry/alpha-fold.md
+    - Web application: geometry/prometry.md    
     - Results: 
       - Correlations: geometry/correlations.md
       - Tau: geometry/tau.md
