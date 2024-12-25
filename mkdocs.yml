@@ -10,6 +10,9 @@ nav:
     - Web application: geometry/prometry.md
     - AlphaFold: geometry/alpha-fold.md
     - Results: geometry/results.md
+      - Correlations: geometry/correlations.md
+      - Tau: geometry/tau.md
+      - AlpphaFold: geometry/alpha-fold.md
   - Density and Potential Maps:
     - Overview: maps/overview.md
     - Density: maps/density.md
