@@ -55,17 +55,17 @@ You can perhaps see, and could if you played with the volume slider on the web a
 that the atom positions are not necessarily quite at the density maxima.
 
 Mathematically speaking, the alignment is done by finding a transformation for the given plane
-to the the origin and the xy plane, and using that transformation for all points. 
+to the origin and the xy plane, and using that transformation for all points. 
 Once found, this transformation can be used to manipulate through space moving orthoginally. 
 This feature is used in the web-app to navigate around.  
 
 ## 3d slices
 Although I like the planar slices for their clarity, you cannot be quite sure without 
-inspection what you are seeing, so the 3d slices add further clarity. Taking one of the peptide bonds above:
+inspection what you are seeing, so the 3d slices add further information. Taking one of the peptide bonds above:
 ![alt text](imgs/3d.png)  
 
-I do find this quite hard to understand and navigate so prefer my ability to navigate around 
-the planar slices in my web-app.
+However I do find this quite hard to understand and navigate so prefer my ability to navigate around 
+the planar slices in my web-app.  
 
 ---  
 
