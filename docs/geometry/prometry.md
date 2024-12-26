@@ -19,9 +19,9 @@ A quick way to find relevant structures using the Uniprot api calls. The AlphaFo
 structures both reviewed and unreviewed are given first, followed by the solved structures and 
 some relevant info. These pdb codes can be used further in the app.  
 
-![alt text](ss_af.png)
+![alt text](imgs/ss_af.png)
 
-![alt text](ss_solved.png)
+![alt text](imgs/ss_solved.png)
 
 ## Correlation
 This is the main use of the app, to visualise correlations. 
@@ -29,20 +29,20 @@ Using some of the TP53 structures above:
 `9C5S 3D06 5MHC 8UQR 6GGC 6SHZ 4MZI 6GGE 3LW1 5O1E 6RL3 8E7A`
 
 
-![alt text](corr.png)
+![alt text](imgs/corr.png)
 
 ## Contact Maps
 A CA-CA contact map for the same TP53 structures, with the hue of both the CA distance 
 and the amino acid. The distance is restriained to between 0.5 and 15Å.  
 
-![alt text](cont-ca.png)
-![alt text](cont-aa.png)
+![alt text](imgs/cont-ca.png)
+![alt text](imgs/cont-aa.png)
 .
 
 ## 3d Space
 For looking at the atoms of a structure in 3d space the AlphaFold structures can be more 
 fun, so this is the TP53 structure [AF-P04637-F1-model_v4](https://alphafold.ebi.ac.uk/entry/P04637)  
-![alt text](3d-alpha.png)  
+![alt text](imgs/3d-alpha.png)  
 The bfactor is the plDDT in AlphaFold and the higher the more confident.  AlphaFold structures 
 have the feature of wiggly uncertain bits with a more certain core - aka there are 
 solved structures in the centre to learn from.  
@@ -54,9 +54,9 @@ The **Validation** page shows either the distribution of bond lengths for some o
 distances in the backbone, or overlays on an accpepted Ramachandran grid - 
 these plots for the same TP53 AlphaFold structure:  
 
-![alt text](rama-alpha.png)  
+![alt text](imgs/rama-alpha.png)  
 
-![alt text](na-alpha.png)  
+![alt text](imgs/na-alpha.png)  
 
 ## Criteria
 The real reason for playing with geometry, is to be able to search for purportedly similar 
@@ -69,7 +69,7 @@ That is those SG atoms in the very bottom left corner have 2 close SG contacts.
 Note that this performs a space search and returns nearest on the given criteria, 
 optionally with constraints applied.  
 
-![alt text](sg-crit.png)
+![alt text](imgs/sg-crit.png)
 
 ---  
 

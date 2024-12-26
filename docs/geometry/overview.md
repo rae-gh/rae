@@ -48,7 +48,7 @@ We might start to ask questions, like the 6 observations with a CB:O distance ne
 My immediate guess would be proline, either as the amino acid or before or after, 
 but a using the motif of amino acids either side as the hue it doesn't show anything 
 obvious so I leave that unanswered for now.  
-![alt text](motif.png)
+![alt text](imgs/motif.png)
 
 ---  
 
