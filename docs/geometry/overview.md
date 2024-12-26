@@ -46,14 +46,15 @@ We might start to ask questions, like the 6 observations with a CB:O distance ne
 
 ## CB:O and N:O - with amino acid as the hue  
 My immediate guess would be proline, either as the amino acid or before or after, 
-but a quick check didn't show anything so I leave that unanswered for now.  
-![image info](./../assets/geo_corr_aa.png)  
+but a using the motif of amino acids either side as the hue it doesn't show anything 
+obvious so I leave that unanswered for now.  
+![alt text](motif.png)
 
 ---  
 
 ## Colab Page to replicate
 All the plots can be run from the colab example found here: 
-[colab-geometry-intro](https://github.com/rae-gh/colab-analyses/blob/main/Density_Intro.ipynb)
+[colab-geometry-intro](https://github.com/rae-gh/colab-analyses/blob/main/Geometry_Intro.ipynb)
 
 
 
