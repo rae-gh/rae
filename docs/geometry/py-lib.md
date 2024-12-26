@@ -8,9 +8,9 @@ pip install prometry
 ```
 
 The code and documentation is available:  
-- GitHub: https://github.com/rae-gh/lib-prometry  
-- API Documentation: https://rae-gh.github.io/lib-prometry/  
-- PyPi: https://pypi.org/project/prometry/
+-  [GitHub: https://github.com/rae-gh/lib-prometry](https://github.com/rae-gh/lib-prometry)
+-  [API Documentation: https://rae-gh.github.io/lib-prometry/](https://rae-gh.github.io/lib-prometry/)
+-  [PyPi: https://pypi.org/project/prometry/](https://pypi.org/project/prometry/)
 
 I have created a web application to interact with it in a non-coding way, 
 enabling you to create and explore correlations interactively, 
