@@ -2,10 +2,10 @@
 
 The [prometry web application](https://prometry.streamlit.app/) provides a basic interface onto the prometry python library to enable 
 manual exploration of correlations, contacts etc.  A more sophisticated interaction would 
-require coding, ie exploration of a large number of pdbs would be time comsuning and 
+require coding, ie exploration of a large number of pdbs would be time consuming and 
 not approriate for a freely-hosted web app.
 
-In addition there is thye ability to search the EBI for solved structures based on gene 
+In addition there is the ability to search the EBI for solved structures based on gene 
 and organism in order to make it easier to run the library on structures of interest.
 
 This is particularly helpful for finding AlphaFold structures that do not 
@@ -51,7 +51,7 @@ This is interactive on the prometry app, you can move it about, zoom in and out 
 ## Validation
 Speaking of fun AlphaFold structures, the Ramachandran plots are interesting.  
 The **Validation** page shows either the distribution of bond lengths for some of the key
-distances in the backbon, or overlays the on an accpepted Ramachandran grid - 
+distances in the backbone, or overlays on an accpepted Ramachandran grid - 
 these plots for the same TP53 AlphaFold structure:  
 
 ![alt text](rama-alpha.png)  
@@ -61,11 +61,11 @@ these plots for the same TP53 AlphaFold structure:
 ## Criteria
 The real reason for playing with geometry, is to be able to search for purportedly similar 
 features to examine the experimental evidence. Examples of interest include hydrogen bonds, 
-disulfide bonds and metal iron interactions. Below I look at the contacts between SG atoms 
-and the TP53 structures again `9C5S 3D06 5MHC 8UQR 6GGC 6SHZ 4MZI 6GGE 3LW1 5O1E 6RL3 8E7A`  
+disulfide bonds and metal interactions. Below I look at the contacts between SG atoms 
+from the TP53 structures again `9C5S 3D06 5MHC 8UQR 6GGC 6SHZ 4MZI 6GGE 3LW1 5O1E 6RL3 8E7A`  
 
 The plot shows the relationship between each SG and the nearest SG to it against the next-nearest. 
-That is those in the very bottom left corner have 2 close SG contacts. 
+That is those SG atoms in the very bottom left corner have 2 close SG contacts. 
 Note that this performs a space search and returns nearest on the given criteria, 
 optionally with constraints applied.  
 
@@ -73,7 +73,7 @@ optionally with constraints applied.
 
 ---  
 
-The application is hosted for free at by streamlit and a certain amount of fair use 
+The application is hosted for free by streamlit and a certain amount of fair use 
 is assumed.
 
 ---  
