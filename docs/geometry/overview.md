@@ -27,7 +27,7 @@ through the rotation.
 This is more interesting, as we can see here a clear relationship with TAU - the angle 
 of the backbone between atoms N:CA:C which remains elusive to analysis across literature.  
 This is a clear relationship, and explicable if you think about the pressure that the 
-atoms come under during the rotation - however it is not a geomatric relationship but one 
+atoms come under during the rotation - however it is not a geometric relationship but one 
 that suggests the forces on the atoms.  
 
 
