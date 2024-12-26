@@ -1,6 +1,6 @@
 # Prometry Web Application
 
-The web application provides a basic interface onto the prometry python library to enable 
+The [prometry web application](https://prometry.streamlit.app/) provides a basic interface onto the prometry python library to enable 
 manual exploration of correlations, contacts etc.  A more sophisticated interaction would 
 require coding, ie exploration of a large number of pdbs would be time comsuning and 
 not approriate for a freely-hosted web app.
