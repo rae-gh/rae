@@ -26,14 +26,13 @@ means wrt atom position as experimental evidence. Stereo-chemical restraints are
 atom positions into line, but not necessarily with explanation or record as to deviation from evidence.  
 
 The technique I have used to analyse electron density (and Cryo-EM and Electron Crystallography potential) 
-is numerical such that I can normalise and supeorpose. I use the raw values in the electron density to interpolate, 
+is numerical such that I can normalise and superpose. I use the raw values in the electron density to interpolate, 
 visualise and differentiate.
 
 This leads to probability density and contour maps more similar to those of Kathleen Lonsdale than ChimeraX. 
 In this image I have taken visualisations of peptide bonds from crambin, the same structure as above from the ebi mesh. 
-I have chosen to display 4 peptide bonds in a row to show the changing nature of them, and I have annotated over the top of the images.
-![alt text](imgs/4-peptides.png)
-![alt text](image.png)
+I have chosen to display 4 peptide bonds in a row to show the changing nature of them.
+![alt text](imgs/4-peptides.png)  
 
 ## 3 points for a plane
 The yellow dots on the images above are the points that I have taken to define the plane. 
