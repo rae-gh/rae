@@ -13,8 +13,8 @@ However, when coupled with the question of experimental evidence the adherence
 
  An example is the correlation between psi (N:CA:C:N+1) and the atom distance N:O. 
 
- 
- ## PSI and N:O - resolution  
+
+ ## PSI and N:O with resolution as hue 
  ![image info](./../assets/geo_corr_res.png)  
  This image shows a clear geometric sine-like correlation between the dihedral angle PSI 
  (N:CA:C:N+1) and the 3-atom distance N:O.  This is not so surprising if you consider that 
@@ -22,7 +22,7 @@ However, when coupled with the question of experimental evidence the adherence
  through the rotation.  
 
 
- ## PSI and N:O - with TAU as the hue  
+## PSI and N:O with TAU as hue 
 ![image info](./../assets/geo_corr_tau.png)  
 This is more interesting, as we can see here a clear relationship with TAU - the angle 
 of the backbone between atoms N:CA:C which remains elusive to analysis across literature.  
