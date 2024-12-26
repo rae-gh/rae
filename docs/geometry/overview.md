@@ -9,10 +9,12 @@ more regular appearance than the Ramachandran plot. These regular correlations m
 add new information, being formed effectively as an output of the decisions made in 
 the input of the restraints used in the solution of the protein structures. 
 However, when coupled with the question of experimental evidence the adherence
- or non-adherence to expected to expected geometric restraints is more interesting.
+ or non-adherence to expected geometric restraints is more interesting.
 
- An example is the correlation between psi (N:CA:C:N+1) and the atom distance N:O. 
+ An example is the correlation between psi (N:CA:C:N+1) and the atom distance N:O.  
 
+ ## A header  
+Something
 
  ## PSI and N:O with resolution as hue 
  ![image info](./../assets/geo_corr_res.png)  
@@ -20,6 +22,9 @@ However, when coupled with the question of experimental evidence the adherence
  (N:CA:C:N+1) and the 3-atom distance N:O.  This is not so surprising if you consider that 
  PSI is a twist around the CA:C bond so the N+1 and O move respectively to the N 
  through the rotation.  
+
+## Another header
+Somrhing
 
 
 ## PSI and N:O with TAU as hue 
