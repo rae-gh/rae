@@ -1,9 +1,9 @@
 # Protein Geometry
 
 Traditionally protein geometry is analysed based on Engh&Huber (2006) bond lengths, 
-hydrogen bond lengths, and the Ramchandran plot.
+hydrogen bond lengths, and the Ramchandran plot (Ramachandran et al, 1963).
 
-Given the geometric nature of protein structures and the adherence to physiochemistry 
+Given the geometric nature of protein structures and the adherence to stereochemistry 
 in bond lengths, there are correlations that can be predicted and measured that have a 
 more regular appearance than the Ramachandran plot. These regular correlations may not
 add new information, being formed effectively as an output of the decisions made in 
