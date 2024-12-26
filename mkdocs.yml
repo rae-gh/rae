@@ -10,14 +10,14 @@ nav:
     - Overview: geometry/overview.md
     - Python library: geometry/py-lib.md
     - Web application: geometry/prometry.md    
-    - Results: 
-      - Correlations: geometry/correlations.md
-      - Tau: geometry/tau.md
-      - AlphaFold: geometry/alpha-fold.md
-      - Omega: geometry/omega.md
-      - ContactMaps: geometry/contact.md
-      - DiSulfides: geometry/disulfide.md
-      - Iron: geometry/iron.md
+    #- Results: 
+    #  - Correlations: geometry/correlations.md
+    #  - Tau: geometry/tau.md
+    #  - AlphaFold: geometry/alpha-fold.md
+    #  - Omega: geometry/omega.md
+    #  - ContactMaps: geometry/contact.md
+    #  - DiSulfides: geometry/disulfide.md
+    #  - Iron: geometry/iron.md
   - Density and Potential Maps:
     - Overview: maps/overview.md
     - Density: maps/density.md
@@ -25,20 +25,18 @@ nav:
     - Laplacian: maps/laplacian.md    
     - Python library: maps/py-lib.md
     - Web application: maps/leuci-web.md
-    - Colab demo: maps/colab.py
-    - Results: maps/results.md
+    - C++ utility: maps/leuci-cpp.md    
+    #- Results: maps/results.md
   - Interpolation:
     - Overview: interpolation/overview
     - N-dim M-Poly: interpolation/alcraft.md
-    - Python library: interpolation/py-lib.md
-    - Colab demo: interpolation/colab.py
-    - Results: interpolation/results.md
+    - Python library: interpolation/py-lib.md    
+    #- Results: interpolation/results.md
   - Trivial Divergence:
     - Overview: trivial/overview.md  
     - Method: trivial/method.md  
-    - Python library: trivial/py-lib.md
-    - Colab demo: trivial/colab.py
-    - Results: trivial/results.md  
+    - Python library: trivial/py-lib.md    
+    #- Results: trivial/results.md  
   - About: 'about.md'  
   - References: 'references.md'  
 theme:
