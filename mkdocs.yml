@@ -13,7 +13,11 @@ nav:
     - Results: 
       - Correlations: geometry/correlations.md
       - Tau: geometry/tau.md
-      - AlpphaFold: geometry/alpha-fold.md
+      - AlphaFold: geometry/alpha-fold.md
+      - Omega: geometry/omega.md
+      - ContactMaps: geometry/contact.md
+      - DiSulfides: geometry/disulfide.md
+      - Iron: geometry/iron.md
   - Density and Potential Maps:
     - Overview: maps/overview.md
     - Density: maps/density.md
