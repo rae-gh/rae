@@ -37,9 +37,9 @@ I have chosen to display 4 peptide bonds in a row to show the changing nature of
 ## 3 points for a plane
 The yellow dots on the images above are the points that I have taken to define the plane. 
 In this case they are specific points in the structure that I have chosen to put all the images in the same alignment:
-- C in the centre
-- CA linear, that is vertivally above the C
-- O on the plane, wherever it needs to be, it swivels up onto the right hand side.
+- C in the centre  
+- CA linear, that is vertivally above the C  
+- O on the plane, wherever it needs to be, it swivels up onto the right hand side.  
 
 This forces those atoms onto the plane, I could have chosen N+1 instead, 
 although it is pretty much expected to be on the plane and we can measure where it is not 
