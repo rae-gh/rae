@@ -65,7 +65,9 @@ disulfide bonds and metal iron interactions. Below I look at the contacts betwee
 and the TP53 structures again `9C5S 3D06 5MHC 8UQR 6GGC 6SHZ 4MZI 6GGE 3LW1 5O1E 6RL3 8E7A`  
 
 The plot shows the relationship between each SG and the nearest SG to it against the next-nearest. 
-That is those in the very bottom left corner have 2 close SG contacts
+That is those in the very bottom left corner have 2 close SG contacts. 
+Note that this performs a space search and returns nearest on the given criteria, 
+optionally with constraints applied.  
 
 ![alt text](sg-crit.png)
 
