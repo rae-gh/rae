@@ -13,14 +13,14 @@ However, when coupled with the question of experimental evidence the adherence
 
  An example is the correlation between psi (N:CA:C:N+1) and the atom distance N:O. 
  
- ### PSI and N:O - resolution
+ ## PSI and N:O - resolution
  ![image info](./../assets/geo_corr_res.png)  
  This image shows a clear geometric sine-like correlation between the dihedral angle PSI 
  (N:CA:C:N+1) and the 3-atom distance N:O.  This is not so surprising if you consider that 
  PSI is a twist around the CA:C bond so the N+1 and O move respectively to the N 
- through the rotation.
+ through the rotation.  
 
- ### PSI and N:O - with TAU as the hue
+ ## PSI and N:O - with TAU as the hue
 ![image info](./../assets/geo_corr_tau.png)  
 This is more interesting, as we can see here a clear relationship with TAU - the angle 
 of the backbone between atoms N:CA:C which remains elusive to analysis across literature.  
@@ -28,10 +28,10 @@ This is a clear relationship, and explicable if you think about the pressure tha
 atoms come under during the rotation - however it is not a geomatric relationship but one 
 that suggests the forces on the atoms.  
 
-### An atom picture to help
+## An atom picture to help
 ![image info](./../assets/atoms.png)  
 
-### CB:O and N:O - with PSI as the hue
+## CB:O and N:O - with PSI as the hue
 ![image info](./../assets/geo_corr_cbo.png)  
 Similar to the relationship with N:O we have CB where there is a CB (exc GLY) which is 
 also a 3 atom distance from O and rotates relative to O in the same way as N, giving a 
@@ -41,7 +41,7 @@ We might start to ask questions, like the 6 observations with a CB:O distance ne
 
 ### CB:O and N:O - with amino acid as the hue
 My immediate guess would be proline, either as the amino acid or before or after, 
-but a quick check didn;t show anything so I leave that unanswered for now.
+but a quick check didn;t show anything so I leave that unanswered for now.  
 ![image info](./../assets/geo_corr_aa.png)  
 
 ---  
