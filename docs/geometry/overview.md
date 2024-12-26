@@ -13,15 +13,15 @@ However, when coupled with the question of experimental evidence the adherence
 
  An example is the correlation between psi (N:CA:C:N+1) and the atom distance N:O.  
 
- ## A header  
+## A header  
 Something
 
- ## PSI and N:O with resolution as hue 
- ![image info](./../assets/geo_corr_res.png)  
- This image shows a clear geometric sine-like correlation between the dihedral angle PSI 
- (N:CA:C:N+1) and the 3-atom distance N:O.  This is not so surprising if you consider that 
- PSI is a twist around the CA:C bond so the N+1 and O move respectively to the N 
- through the rotation.  
+## PSI and N:O with resolution as hue 
+![image info](./../assets/geo_corr_res.png)  
+This image shows a clear geometric sine-like correlation between the dihedral angle PSI 
+(N:CA:C:N+1) and the 3-atom distance N:O.  This is not so surprising if you consider that 
+PSI is a twist around the CA:C bond so the N+1 and O move respectively to the N 
+through the rotation.  
 
 ## Another header
 Somrhing
@@ -51,7 +51,7 @@ We might start to ask questions, like the 6 observations with a CB:O distance ne
 
 ## CB:O and N:O - with amino acid as the hue  
 My immediate guess would be proline, either as the amino acid or before or after, 
-but a quick check didn;t show anything so I leave that unanswered for now.  
+but a quick check didn't show anything so I leave that unanswered for now.  
 ![image info](./../assets/geo_corr_aa.png)  
 
 ---  
