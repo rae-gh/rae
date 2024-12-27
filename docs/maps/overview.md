@@ -48,16 +48,16 @@ although it is pretty much expected to be on the plane and we can measure where 
 
 In the depth image coming up, I choose n samples either side of the plane.  
 
-The choice of atom position is arbitrary in some sense, and I can also adjust to the closest maxima for alignment. 
-This is a form of image registration, where I am choosing the maxima to align the image, 
-I could (and might) make a volumetric decision instead for alignment, or some other method.  
+I can also adjust to the closest maxima for alignment. This is a form of image registration, 
+where I am choosing the maxima to align the image, I could (and might) make a volumetric 
+decision instead for alignment, or some other method.  
 
 You can perhaps see, and could if you played with the volume slider on the web app, 
 that the atom positions are not necessarily quite at the density maxima.
 
-Mathematically speaking, the alignment is done by finding a transformation for the given plane
-to the origin and the xy plane, and using that transformation for all points. 
-Once found, this transformation can be used to manipulate through space moving orthoginally. 
+The alignment is done by finding a transformation for the given plane to the origin and 
+the xy plane, and using that transformation for all points. Once found, this transformation 
+can be used to manipulate through space moving orthoginally. 
 This feature is used in the web-app to navigate around.  
 
 ## 3d slices
