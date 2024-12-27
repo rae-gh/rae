@@ -56,3 +56,9 @@ navigation to seek information I would choose density:contours:linear:50, and on
 verification of thought or the production of images might I increase to the more numerically 
 intense bspline at higher sampling.  
 
+---  
+
+## Colab Page to replicate
+All the plots can be run from the colab example found here: 
+[colab-maps-radient](https://github.com/rae-gh/colab-analyses/blob/main/Maps/Radient.ipynb)
+
