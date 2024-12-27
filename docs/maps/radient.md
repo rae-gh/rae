@@ -26,7 +26,7 @@ This shows the orientation of the images below.
 
 ## Interpreting the radient lines
 In the image below I have used the same peptide bonds as per the overview images of crambin, 
-(1ejg, Jelsch et al, 2000)
+1ejg - an ultra high resolution structure at 0.54 Å (Jelsch et al, 2000).
 
 ![alt text](imgs/den-rad.png)
 
