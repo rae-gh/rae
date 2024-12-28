@@ -3,7 +3,7 @@
 The primary purpose of my PhD is to look for new information about inter-atomic bonds from ultra-high resolution x-ray crystallographic maps. The explosion in the solutions of ultra-high resolution structures has led to information about protein crystal structures being sampled up to every 0.3Å in ultra-high structures.  
 
 ## Mesh-like electron density
-Traditional electron density is visualised in applications like [ChimeraX](https://www.cgl.ucsf.edu/chimerax/), [proteopedia](http://www.bioinformatics.org/molvis/edm/) or at the respositories like [EBI](https://www.ebi.ac.uk/pdbe/entry/pdb/1ejg/index) as mesh-type structures based on standard deviatons.
+Traditional electron density is visualised in applications like [ChimeraX](https://www.cgl.ucsf.edu/chimerax/), [FirstGlance@Proteopedia](https://proteopedia.org/wiki/fgij/) or at the respositories like [EBI](https://www.ebi.ac.uk/pdbe/entry/pdb/1ejg/index) as mesh-type structures based on standard deviatons.
 
 ![alt text](imgs/ebi-ed.png)  
 
