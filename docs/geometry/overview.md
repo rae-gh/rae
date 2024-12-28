@@ -34,6 +34,9 @@ that suggests the forces on the atoms.
 ## An atom picture to help  
 ![image info](./../assets/atoms.png)  
 
+The amino acids as diagrams with the atom names described 
+[here at imgt.org](https://www.imgt.org/IMGTeducation/Aide-memoire/_UK/aminoacids/formuleAA/)
+
 
 ## CB:O and N:O - with PSI as the hue  
 ![image info](./../assets/geo_corr_cbo.png)  

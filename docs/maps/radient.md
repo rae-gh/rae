@@ -26,7 +26,7 @@ This shows the orientation of the images below.
 
 ## Interpreting the radient lines
 In the image below I have used the same peptide bonds as per the overview images of crambin, 
-1ejg - an ultra high resolution structure at 0.54 Å (Jelsch et al, 2000).
+1ejg - an ultra high resolution structure at 0.54Å (Jelsch et al, 2000).
 
 ![alt text](imgs/den-rad.png)
 
@@ -55,6 +55,16 @@ For both these images I am using a bspline interpolation method, for rapid
 navigation to seek information I would choose density:contours:linear:50, and only for the 
 verification of thought or the production of images might I increase to the more numerically 
 intense bspline at higher sampling.  
+
+## The elctron crystallography structure 7uly
+Having produced 4 peptide bond density images fopr the high res eletron crystallogrpahy 
+strucure 7uly (0.87Å) I have the radient images too:  
+
+![alt text](imgs/7uly-rad.png)  
+
+These images are suggestive of a lower resolution that 1ejg (0.54Å vs 0.87Å but it seems like more). 
+The electron density in the pleptide plane across C:O:N+1 of the 7th residue glutamate 
+suggests something interesting in terms of electorn distribution - distinct from the others.  
 
 ---  
 
