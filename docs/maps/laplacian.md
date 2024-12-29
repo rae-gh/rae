@@ -45,12 +45,13 @@ For all critical points, the signature of the critical point is the number of -v
 derivatives. If it is a stable critical point it will have a **rank** of 3, that is 3 real eigenvalues.  
 The signs of the eigenvalues define it's signature, where:  
 - (3,-3) All negative eigenvalues - a local maxima  
-- (3,-1) 2 negative, 1 positive - *a bond cp*
-- (3,+1) 1 negative, 2 positive - *a ring cp*
-- (3,+3) All positive, a local minimum - *a cage cp*
+- (3,-1) 2 negative, 1 positive - *a bond cp*  
+- (3,+1) 1 negative, 2 positive - *a ring cp*  
+- (3,+3) All positive, a local minimum - *a cage cp*  
 
 We can use a simplified numerical scheme to itemise these as our values. 
-I have called this `derivative` the criticalpoint. Where the (g)radient is not close to 0 
+I have called this "derivative" the criticalpoint - it involves both the radient and the 
+laplacian for calculation so is more time-consuming. Where the (g)radient is not close to 0 
 the colour is 0, so there is a 5 colour scheme:  
 - -3 -> (3,-3)  
 - -1 -> (3,-1)  
