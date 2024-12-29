@@ -62,8 +62,8 @@ strucure 7uly (0.87Å) I have the radient images too:
 
 ![alt text](imgs/7uly-rad.png)  
 
-These images are suggestive of a lower resolution that 1ejg (0.54Å vs 0.87Å but it seems like more). 
-The electron density in the pleptide plane across C:O:N+1 of the 7th residue glutamate 
+These images are suggestive of a lower resolution than 1ejg (0.54Å vs 0.87Å but it seems like more). 
+The electron density in the peptide plane across C:O:N+1 of the 7th residue glutamate 
 suggests something interesting in terms of electorn distribution - distinct from the others.  
 
 ---  

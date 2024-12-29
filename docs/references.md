@@ -14,4 +14,7 @@ Lonsdale, K. (1931). An X-ray Analysis of the Structure of Hexachlorobenzene, us
 
 Ramachandran, G. N., Ramakrishnan, C., & Sasisekharan, V. (1963). Stereochemistry of polypeptide chain configurations. Journal of Molecular Biology, 7(1), 95–99. https://doi.org/10.1016/S0022-2836(63)80023-6  
 
+
+Schmidt A, Teeter M, Weckert E, Lamzin VS . (2011) Crystal structure of small protein crambin at 0.48 Å resolution. Acta Crystallogr Sect F Struct Biol Cryst Commun 67 424-8 (2011), 10.1107/S1744309110052607.
+
 Wlodawer, A. (2007). Stereochemistry and Validation of Macromolecular Structures. Methods Molecular Biology, 1607, 68–75. https://doi.org/10.1007/978-1-4939-7000-1  
