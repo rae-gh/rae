@@ -25,19 +25,19 @@ nav:
     - Density: maps/density.md
     - Radient: maps/radient.md
     - Laplacian: maps/laplacian.md    
-    - Gaussian interference: maps/gaussian.md    
-    - Maxima-adjusted structures: maps/adjusted.md            
-    - C++ utility: maps/leuci-cpp.md    
+    - C++ utility*: maps/leuci-cpp.md    
+    - Gaussian interference*: maps/gaussian.md    
+    - Maxima-adjusted structures*: maps/adjusted.md                
     #- Results: maps/results.md
   - Interpolation:
-    - Overview: interpolation/overview
-    - N-dim M-Poly: interpolation/alcraft.md
-    - Python library: interpolation/py-lib.md    
+    - Overview*: interpolation/overview
+    - N-dim M-Poly*: interpolation/alcraft.md
+    - Python library*: interpolation/py-lib.md    
     #- Results: interpolation/results.md
   - Trivial Divergence:
-    - Overview: trivial/overview.md  
-    - Method: trivial/method.md  
-    - Python library: trivial/py-lib.md    
+    - Overview*: trivial/overview.md  
+    - Method*: trivial/method.md  
+    - Python library*: trivial/py-lib.md    
     #- Results: trivial/results.md  
   - About: 'about.md'  
   - References: 'references.md'  

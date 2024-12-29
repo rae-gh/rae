@@ -13,6 +13,11 @@ An example of an image of some electron density, where the red is a stronger den
 ---  
 
 ### Status notes
+#### 29/12/24
+- I have done more than expected and re-implemeted critical point analysis as a new derivative called 
+criticalpoint that categorises a critical point based on the signs of the 2nd partial derivatives as per Bader (1994).  
+- All not complete pages I asterisked at the end* but didn't want to remove because they guide me.  
+
 #### 25/12/24
 This is under development to write up my current progress, nothing is complete currently it is all notes to self.  
 
