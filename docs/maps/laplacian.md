@@ -23,7 +23,7 @@ to the density, it would be hard not to be concerned about the rings.
 ![alt text](imgs/di-laplacian.png)
 
 And yet, can we dismiss it entirely? There are clear volumes of deeper density in specific 
-locations around the atoms - is it the product of overlapping rings are real information?  
+locations around the atoms - is it the product of overlapping rings or real information?  
 
 A challenge would be to remove the rings - what has held me back so far is the fear of adding 
 layer upon layer of artifical interpretation and having no idea what is really left at the end.  
@@ -53,11 +53,11 @@ We can use a simplified numerical scheme to itemise these as our values.
 I have called this "derivative" the criticalpoint - it involves both the radient and the 
 laplacian for calculation so is more time-consuming. Where the (g)radient is not close to 0 
 the colour is 0, so there is a 5 colour scheme:  
-- -3 -> (3,-3)  
-- -1 -> (3,-1)  
--  0 -> NA  
-- +1 -> (3,+1)  
-- +3 -> (3,+3)  
+- -3 -> (3,-3) = dark red  
+- -1 -> (3,-1) = pink  
+-  0 -> NA     = black  
+- +1 -> (3,+1) = pale blue    
+- +3 -> (3,+3) = dark blue   
 
 ![alt text](imgs/cp-7uly.png)
 

@@ -21,11 +21,12 @@ nav:
   - Density and Potential Maps:
     - Overview: maps/overview.md
     - Python library: maps/py-lib.md
+    - Web application(s): maps/leuci-web.md    
     - Density: maps/density.md
     - Radient: maps/radient.md
     - Laplacian: maps/laplacian.md    
     - Gaussian interference: maps/gaussian.md    
-    - Web application: maps/leuci-web.md
+    - Maxima-adjusted structures: maps/adjusted.md            
     - C++ utility: maps/leuci-cpp.md    
     #- Results: maps/results.md
   - Interpolation:
