@@ -110,6 +110,10 @@ There is some clarity in the images and distinctly changing nature between the b
 we would hope, with a changing nature in electron dstribution between C:N+1 and O - 
 my particular interest.
 
+## Neighbours
+The final example on the colab page shows that neighbours can be added to interactive plots like plotly easily, so when you waive the mouse over the plot you can identify the atoms. More advanced programmatic use can be made of this, and it can be quite computationally intense as it is not well optimised and performs a pretty full search.
+
+![alt text](imgs/naybs.png)
 ---  
 
 ## Colab Page to replicate
