@@ -83,7 +83,7 @@ the atom positions I have chosen do not show maxima, though there are maxima on
 
 Orientation of above is:  
 
-![alt text](imgs/tyr-atoms.png)
+![alt text](imgs/tyr-atom-grey.png)
 
 ---  
 
