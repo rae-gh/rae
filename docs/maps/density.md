@@ -86,6 +86,8 @@ the sulfur atom, we are seeing that in fact the electrons are distributed in a m
 like effect. I am not convinced, to me this is far too sensitive to the model, 
 which was made up in the first place.  
 
+There is some element of luck in the plane chosen - this can be explored in 3d on the associated colab page.  
+
 ## EM Potential
 So, I don't like the rings and I don't like difference density: happily we can explore an 
 entirely different solution to structures which do not have these features in em structures. 
@@ -112,7 +114,7 @@ my particular interest.
 
 ## Colab Page to replicate
 All the plots can be run from the colab example found here: 
-[colab-maps-radient](https://github.com/rae-gh/colab-analyses/blob/main/Maps/Density.ipynb)
+[colab-maps-density](https://github.com/rae-gh/colab-analyses/blob/main/Maps/Density.ipynb)
 
 
 

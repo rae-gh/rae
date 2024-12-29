@@ -69,7 +69,10 @@ That is those SG atoms in the very bottom left corner have 2 close SG contacts.
 Note that this performs a space search and returns nearest on the given criteria, 
 optionally with constraints applied.  
 
-![alt text](imgs/sg-crit.png)
+![alt text](imgs/sg-crit.png)  
+
+Note for this document I choose to display the results as an image but I have a dataframe 
+of results so I can use this to filter the obervations I want to use for further analysis.  
 
 ---  
 
