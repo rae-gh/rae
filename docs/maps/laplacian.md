@@ -89,7 +89,7 @@ Orientation of above is:
 
 ## Colab Page to replicate
 All the plots can be run from the colab example found here: 
-[colab-maps-radient](https://github.com/rae-gh/colab-analyses/blob/main/Maps/Laplacian.ipynb)
+[colab-maps-laplacian](https://github.com/rae-gh/colab-analyses/blob/main/Maps/Laplacian.ipynb)
 
 
 
