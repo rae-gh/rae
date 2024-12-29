@@ -63,7 +63,7 @@ the colour is 0, so there is a 5 colour scheme:
 The image is greyed out where there is not a critical point. However this can lead to a very 
 sparse image, so the arbitrary decision is made to categorise <0.75 as a critical point 
 for the purpose of visualsation. As most of an atom is not at a critical point, this leads 
-largely to the atoms themselves being greyed out - with the background a bit more noisey. 
+largely to the atoms themselves being greyed out - with the background a bit more noisy. 
 Within the atoms you can see clearly the crtitical points and their signatures. 
 Quite satisfactory for this structure:  
 - all the atom positions are at maxima  
@@ -78,8 +78,7 @@ the others so they don't obscure anything.
 
 ![alt text](imgs/tyr.png)
 
-I increased the samples to 120 to get a clear image as the width is 9Å. Notice that 
-the atom positions I have chosen do not show maxima, though there are maxima on 
+I increased the samples to 120 to get a clear image as the width is 9Å. 
 
 Orientation of above is:  
 
