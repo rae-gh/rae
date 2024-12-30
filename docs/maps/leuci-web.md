@@ -16,7 +16,8 @@ and with javascript and python to optimise as much as possible - caching in java
 calculation is not necessary e.g. the changing of the hue. Quite unnecessary but quite fun.  
 
 
-![Alt Text](imgs/streamlit-peptide.gif)
+![Alt Text](imgs/streamlit-peptide.gif)  
+Structure 2bf9
 
 <!-- 
 Converted from a streamlit screen cast to a gif
