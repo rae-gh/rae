@@ -97,7 +97,7 @@ nor the difference density as the solution is direct and does not require the it
 It would be reasonable to assume that if there are any real features in the bonds 
 observable at ultrahigh resolution, they would be observale in electron crystallography too.  
 
-The structure 7uly is solved by electron crystallography at 0.87Å and has 129 residues. 
+The structure 7uly (Clabbers et al, 2022) is solved by electron crystallography at 0.87Å and has 129 residues. 
 There are 4 disulfide bonds so I will do the same analysis as for 1ejg with the first 3:
 
 ![alt text](imgs/7uly-di.png)  

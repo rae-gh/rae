@@ -4,6 +4,8 @@ Afonine, P. V., Lunin, V. Y., Muzet, N., & Urzhumtsev, A. (2004). On the possibi
 
 Bader, R. F. W. (1994). Atoms in molecules: A quantum theory. Clarendon Press ; Oxford University Press.  
 
+Clabbers, M.T.B., Martynowycz, M.W., Hattne, J., Gonen, T. (2022) Hydrogens and hydrogen-bond networks in macromolecular MicroED data. J Struct Biol X 6: 100078-100078  
+
 Engh, R. A., & Huber, R. (2006). 18.3. Structure quality and target parameters. International Tables for Crystallography, F, 382–392. http://dx.doi.org/10.1107/97809553602060000695  
   
 Glover, I., Haneef I., Pitts, J., Wood, S., Moss, D., Tickle, I., Blundell, T. (1983). Conformational flexibility in a small globular hormone: x-ray analysis of avian pancreatic polypeptide at 0.98-A resolution. Biopolymers 22 293-304 DOI: 10.1002/bip.360220138  
