@@ -8,10 +8,13 @@ Traditional electron density is visualised in applications like [ChimeraX](https
 ![alt text](imgs/ebi-ed.png)  
 
 
-This image is purposefully annoying - you can see the electron density doesn't cover the structure. 
-All the deposited electron density at the EBI has been slowly changed over the past couple of years to be 
-unit cell instead of structure coverage. It has broken lots of courses and it was a lot of work for me 
-but my electron density applications were updated to take this into account.
+You can see from this image that the electron density doesn't cover the structure - this is how things seem to come by default now. All the deposited electron density at the EBI has been slowly changed over the past couple of years to be unit cell instead of structure coverage. It has broken lots of courses and it was a lot of work for me but my electron density applications were updated to take this into account.  
+
+An example from my application [maptial](https://maptial.azurewebsites.net/) below demonstrates how the new deposited density (on the top row below) is not necessarily contiguous with the structure - with my adjustments to make the density cover the structure on the row below.
+
+![alt text](imgs/coverage.png)  
+Structure 2bf9 (Glover et al, 1983)
+
 
 ## Probability contour electron density
 An example of the early sketches of electron density can be seen in Kathleen Lonsdale's solution to 
