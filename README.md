@@ -1,2 +1,2 @@
 # Rae PhD Projects
-Imventory of projects:
+[Inventory of projects](https://rae-gh.github.io/rae/)
